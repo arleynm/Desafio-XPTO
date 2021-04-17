@@ -1,0 +1,13 @@
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\bin\Debug\netcoreapp3.1\projetoXPTO.exe
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\bin\Debug\netcoreapp3.1\projetoXPTO.deps.json
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\bin\Debug\netcoreapp3.1\projetoXPTO.runtimeconfig.json
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\bin\Debug\netcoreapp3.1\projetoXPTO.runtimeconfig.dev.json
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\bin\Debug\netcoreapp3.1\projetoXPTO.dll
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\bin\Debug\netcoreapp3.1\projetoXPTO.pdb
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\obj\Debug\netcoreapp3.1\projetoXPTO.csprojAssemblyReference.cache
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\obj\Debug\netcoreapp3.1\projetoXPTO.AssemblyInfoInputs.cache
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\obj\Debug\netcoreapp3.1\projetoXPTO.AssemblyInfo.cs
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\obj\Debug\netcoreapp3.1\projetoXPTO.csproj.CoreCompileInputs.cache
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\obj\Debug\netcoreapp3.1\projetoXPTO.dll
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\obj\Debug\netcoreapp3.1\projetoXPTO.pdb
+C:\Users\Arley Augusto\source\repos\projetoXPTO\projetoXPTO\obj\Debug\netcoreapp3.1\projetoXPTO.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\bin\Debug\ProjectXpto.View.exe.config
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\bin\Debug\ProjectXpto.View.exe
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\bin\Debug\ProjectXpto.View.pdb
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.csprojAssemblyReference.cache
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.Detalhe.resources
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.Home.resources
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.Properties.Resources.resources
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.csproj.GenerateResource.cache
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.csproj.CoreCompileInputs.cache
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.exe
+C:\Users\Arley Augusto\source\repos\projetoXPTO\ProjectXpto.View\obj\Debug\ProjectXpto.View.pdb

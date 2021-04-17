@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "projetoXPTO/1.0.0": {
+        "runtime": {
+          "projetoXPTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projetoXPTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
